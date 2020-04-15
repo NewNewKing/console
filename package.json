@@ -1,0 +1,12 @@
+{
+  "name": "@wxx/console",
+  "version": "1.0.0",
+  "description": "style for console",
+  "main": "index.js",
+  "author": "leslie wong",
+  "scripts": {
+    "test": "node tests/index" 
+  },
+  "license": "MIT",
+  "private": false
+}
