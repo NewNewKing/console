@@ -9,7 +9,7 @@ colors and styles are same as colors.js except `extras`
 ## Installation
 
 ```
-npm install @wxx/console
+npm install @wangxingxin/console
 ```
 
 
