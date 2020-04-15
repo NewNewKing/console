@@ -1,9 +1,14 @@
 {
-  "name": "@wxx/console",
-  "version": "1.0.0",
+  "name": "@wangxingxin/console",
+  "version": "1.0.1",
+  "keywords": ["console", "color", "terminal"],
   "description": "style for console",
   "main": "index.js",
   "author": "leslie wong",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/NewNewKing/console"
+	},
   "scripts": {
     "test": "node tests/index" 
   },
