@@ -17,7 +17,7 @@ npm install @wxx/console
 ## Usage
 
 ```javascript 
-const logger = require('@wxx/console')
+const logger = require('@wangxingxin/console')
 
 logger.log('log.name', 'log.message') // log.name：log.message
 logger.warn('FBI WARNING!')		// FBI WARNING!
@@ -47,7 +47,7 @@ logger.define({
 
  And then  you can use `logger.custom1(name, message)` or `logger.custom2(name, message)`
 
-you can also use one param ``logger.custom1(message)`
+you can also use one param `logger.custom1(message)`
 
 
 
